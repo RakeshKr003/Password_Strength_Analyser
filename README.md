@@ -20,5 +20,5 @@ This tool provides quick feedback to help users create stronger, more secure pas
 
 ## 🛠️ Requirements
 - Python 3.13.12 or above
-- Standard library (`re` module is used, no external dependencies)
+- Standard library (`re`(Regular Expression) module is used, no external dependencies)
 
